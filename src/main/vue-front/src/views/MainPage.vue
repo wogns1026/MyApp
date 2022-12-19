@@ -1,49 +1,12 @@
 <template>
-  <!-- Start Banner Hero -->
-  <div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="0" class="active"></li>
-      <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="1"></li>
-      <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner" style="">
-      <div class="carousel-item active">
-        <div class="container">
-          <div class="row p-5">
-            <img class="slider-img" src="nru-img1.PNG">
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <div class="container">
-          <div class="row p-5">
-            <img class="slider-img" src="nru-gallery.JPG">
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <div class="container">
-          <div class="row p-5">
-            <img class="slider-img" src="nru-gallery1.jpg">
-          </div>
-        </div>
-      </div>
-    </div>
-    <a class="carousel-control-prev text-decoration-none w-auto ps-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="prev">
-      <i class="fas fa-chevron-left"></i>
-    </a>
-    <a class="carousel-control-next text-decoration-none w-auto pe-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="next">
-      <i class="fas fa-chevron-right"></i>
-    </a>
-  </div>
-
   <section class="bg-light">
     <div class="container py-5">
       <div class="row text-center py-3">
         <div class="col-lg-6 m-auto">
-          <h1 class="h1">New Beverage</h1>
+          <h1 class="h1">My App List</h1>
           <p>
-            새로운 커피에 대한 소개글 대충~~~
+            <br>
+            나에게 필요한 것들을 한 곳에서!!!
           </p>
         </div>
       </div>
@@ -51,12 +14,13 @@
         <div class="col-12 col-md-4 mb-4">
           <div class="card h-100">
             <a href="shop-single.html">
-              <img src="../../public/assets/img/americano.jpg" class="product-img">
+              <img src="../../public/assets/img/todolist.jpg" class="product-img">
             </a>
             <div class="card-body">
-              <a href="shop-single.html" class="h2 text-decoration-none text-dark">AMERICANO</a>
+              <a href="shop-single.html" class="h2 text-decoration-none text-dark">To Do List</a>
               <p class="card-text">
-                This is Ice Americano!!
+                <br>
+                매일 까먹는 나를 도와줘...
               </p>
             </div>
           </div>
@@ -64,12 +28,13 @@
         <div class="col-12 col-md-4 mb-4">
           <div class="card h-100">
             <a href="shop-single.html">
-              <img src="../../public/assets/img/malchalatte.jpg" class="product-img">
+              <img src="../../public/assets/img/financial-ledger.jpg" class="product-img">
             </a>
             <div class="card-body">
-              <a href="shop-single.html" class="h2 text-decoration-none text-dark">MALCHA LATTE</a>
+              <a href="shop-single.html" class="h2 text-decoration-none text-dark">Financial Ledger</a>
               <p class="card-text">
-                This is Ice Malch Latte~~!!!
+                <br>
+                자꾸만 사라지는 내 돈의 행방을 찾아서~
               </p>
             </div>
           </div>
@@ -77,14 +42,14 @@
         <div class="col-12 col-md-4 mb-4">
           <div class="card h-100">
             <a href="shop-single.html">
-              <img src="../../public/assets/img/banillalatte.jpg" class="product-img">
+              <img src="../../public/assets/img/lotto.jpg" class="product-img">
             </a>
             <div class="card-body">
-              <a href="shop-single.html" class="h2 text-decoration-none text-dark">BANILLA LATTE</a>
+              <a href="shop-single.html" class="h2 text-decoration-none text-dark">Lotto</a>
               <p class="card-text">
-                This is Ice Banilla Latte~!~!~!
+                <br>
+                나도 부자가 좀 되보자!!!
               </p>
-              <p class="text-muted">Reviews (74)</p>
             </div>
           </div>
         </div>
