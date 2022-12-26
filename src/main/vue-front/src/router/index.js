@@ -7,19 +7,19 @@ const routes = [
         component: () => import('../views/MainPage')
     },
     {
-        path: '/nru-story',
-        name: 'NRU STORY',
-        component: () => import('../views/NruStory')
+        path: '/todolist',
+        name: 'TO DO LIST',
+        component: () => import('../views/ToDoList')
     },
     {
-        path: '/gallery',
-        name: 'Gallery',
-        component: () => import('../views/Gallery')
+        path: '/financial-ledger',
+        name: 'Financial Ledger',
+        component: () => import('../views/FinancialLedger')
     },
     {
-        path: '/notice',
-        name: 'Notice',
-        component: () => import('../views/Notice')
+        path: '/lotto',
+        name: 'Lotto',
+        component: () => import('../views/Lotto')
     },
 ]
 

@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div align="center">
+    <h1>Financial Ledger</h1>
+  </div>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-  <h1>dasdasdad</h1>
+  <div align="center">
+    <h1>Lotto</h1>
+  </div>
 </template>
 
 <script>

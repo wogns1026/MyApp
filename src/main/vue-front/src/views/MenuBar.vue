@@ -12,13 +12,13 @@
         <div class="flex-fill">
           <ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
             <li class="nav-item">
-              <a class="nav-link" href="#" onclick="location.href='/nru-story'">To Do List</a>
+              <a class="nav-link" href="#" onclick="location.href='/todolist'">To Do List</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Financial Ledger</a>
+              <a class="nav-link" href="#" onclick="location.href='/financial-ledger'">Financial Ledger</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Lotto</a>
+              <a class="nav-link" href="#" onclick="location.href='/lotto'">Lotto</a>
             </li>
           </ul>
         </div>

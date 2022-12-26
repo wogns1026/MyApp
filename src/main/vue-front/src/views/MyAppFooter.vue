@@ -25,6 +25,7 @@
           <h2 class="h2 text-light border-bottom pb-3 border-light">My App</h2>
           <ul class="list-unstyled text-light footer-link-list">
             <li><a class="text-decoration-none" href="#">나에게 필요한 것들을 모두 모음</a></li>
+            <li><a class="text-decoration-none" href="#">필요한 것이 생길 때마다 추가하기</a></li>
             <li><a class="text-decoration-none" href="#"></a></li>
           </ul>
         </div>
